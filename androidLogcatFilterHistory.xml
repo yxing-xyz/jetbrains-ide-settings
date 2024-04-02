@@ -1,0 +1,15 @@
+<application>
+  <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package: xyz.yxing.demo " />
+    <option name="nonFavorites">
+      <list>
+        <option value="package: xyz.yxing.demo " />
+        <option value="tag: app " />
+        <option value="yxxxy" />
+        <option value="xxx" />
+        <option value="package:xyz.yxing.demo" />
+        <option value="xyz.yxing.demo" />
+      </list>
+    </option>
+  </component>
+</application>
