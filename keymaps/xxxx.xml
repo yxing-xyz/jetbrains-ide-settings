@@ -1,4 +1,4 @@
-<keymap version="1" name="Emacs copy" parent="Emacs">
+<keymap version="1" name="xxxx" parent="Emacs">
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
